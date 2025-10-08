@@ -21,5 +21,4 @@
 ---
 
 ### 📂 Featured Projects  
-*(add links once ready)*  
 - 🧠 **AI for Quantitative Finance** – Exploring machine learning and deep learning models for stock and financial data  
