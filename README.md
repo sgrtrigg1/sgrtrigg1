@@ -1,11 +1,11 @@
-### 👋 Hi, I’m Roy  
+### 👋 Hey there, welcome to my profile
 
-- 💻 Currently working on **Applications of AI in Quantitative Finance**, including CNNs, RNNs, and hybrid models  
-- 🚀 Currently learning **Reinforcement Learning, Time Series Forecasting, and Bio-Inspired Optimization** for financial applications  
-- 🤝 Open to collaborations on impactful AI, data science, or finance-related projects  
-- ✨ Outside of tech: I enjoy **chess**, **triathlon training**, and a strong **coffee ☕**  
-- 📫 Reach me at **sgrtrigg@gmail.com**  
-
+- 💻 Currently I am working on **Exploiting K-Scale Data for Machine Learning**. An exciting new project staring in December 2025 and open to insights!
+- 🚀 Recently, I finished **Applications of Artificual Intelligence in Quantitative Finance** includining Neural Networks and Long Short Term Memory in Time-Series Forecasting
+- 🤝 I am Keen to collaborate on any AI or data science projects; just drop me a message. Seeking to make new connections and help anyway I can.
+- 🧠 My Scope of expertise include Mathematics / Economics (BSc Hons), Data Science / AI & Machine Learning (MSc) - DataBase Design|Visualisation|LaTeX and Satistics|; Geography (A-Level and Level 4)
+- ✨ Enthusiastic about hybrid athleticism - all things sports; weightlifting-running-swimming-cycling and nutrition! As well as the data that come with them!
+- 📫 Reach me via email **sgrtrigg@gmail.com**. Read my blog posts **https://medium.com/@roytriggs**. Subsribe to my channel **https://www.youtube.com/@sgrtigg1**
 ---
 
 ### 🛠️ Tech I Use  
@@ -19,6 +19,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ---
-
-### 📂 Featured Projects  
-- 🧠 **AI for Quantitative Finance** – Exploring machine learning and deep learning models for stock and financial data  
+Regards,
+Roy
