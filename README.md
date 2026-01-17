@@ -4,8 +4,9 @@ Big Things are coming in 2026 and I am excited to share them soon, watch this sp
 - November 2025 I completed **Applications of Artificual Intelligence in Quantitative Finance** incl. ANN and LSTM 🪙
 
 I am Keen to collaborate on any AI or data science projects just drop me a message. Seeking to make new connections and help anyway I can. My Scope of expertise include Mathematics / Economics (BSc Hons), Data Science / AI & Machine Learning (MSc) - DataBase Design|Visualisation|LaTeX and Satistics|; Geography (A-Level and Level 4)
-   
+
 Enthusiastic about hybrid athleticism - all things sports; weightlifting-running-swimming-cycling and nutrition! As well as the data that come with them! Reach me via email **sgrtrigg@gmail.com**. Read my blog posts **https://medium.com/@roytriggs**. Subsribe to my channel **https://www.youtube.com/@sgrtigg1**
+
 ---
 
 ### 🛠️ Tech I Use  
@@ -19,5 +20,5 @@ Enthusiastic about hybrid athleticism - all things sports; weightlifting-running
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ---
-Regards,
+Speak soon,
 Roy 👨‍💻
