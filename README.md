@@ -1,11 +1,11 @@
-### 👋 Hey there, welcome to my profile
+### 👨‍💻 Hi! welcome to my page, check it out:
+Big Things are coming in 2026 and I am excited to share them soon, watch this space 👀👀👀
+- December 2025 I created **Exploiting K-Scale Data for Machine Learning** Written in R and it will be published soon ✅
+- November 2025 I completed **Applications of Artificual Intelligence in Quantitative Finance** incl. ANN and LSTM 🪙
 
-- 💻 Currently I am working on **Exploiting K-Scale Data for Machine Learning**. An exciting new project staring in December 2025 and open to insights!
-- 🚀 Recently, I finished **Applications of Artificual Intelligence in Quantitative Finance** includining Neural Networks and Long Short Term Memory in Time-Series Forecasting
-- 🤝 I am Keen to collaborate on any AI or data science projects; just drop me a message. Seeking to make new connections and help anyway I can.
-- 🧠 My Scope of expertise include Mathematics / Economics (BSc Hons), Data Science / AI & Machine Learning (MSc) - DataBase Design|Visualisation|LaTeX and Satistics|; Geography (A-Level and Level 4)
-- ✨ Enthusiastic about hybrid athleticism - all things sports; weightlifting-running-swimming-cycling and nutrition! As well as the data that come with them!
-- 📫 Reach me via email **sgrtrigg@gmail.com**. Read my blog posts **https://medium.com/@roytriggs**. Subsribe to my channel **https://www.youtube.com/@sgrtigg1**
+I am Keen to collaborate on any AI or data science projects just drop me a message. Seeking to make new connections and help anyway I can. My Scope of expertise include Mathematics / Economics (BSc Hons), Data Science / AI & Machine Learning (MSc) - DataBase Design|Visualisation|LaTeX and Satistics|; Geography (A-Level and Level 4)
+   
+Enthusiastic about hybrid athleticism - all things sports; weightlifting-running-swimming-cycling and nutrition! As well as the data that come with them! Reach me via email **sgrtrigg@gmail.com**. Read my blog posts **https://medium.com/@roytriggs**. Subsribe to my channel **https://www.youtube.com/@sgrtigg1**
 ---
 
 ### 🛠️ Tech I Use  
@@ -20,4 +20,4 @@
 
 ---
 Regards,
-Roy
+Roy 👨‍💻
