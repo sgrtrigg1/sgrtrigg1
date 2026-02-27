@@ -1,6 +1,7 @@
 ### 👨‍💻 Hi! welcome to my page, check it out:
 Big Things are coming in 2026 and I am excited to share them soon, watch this space 👀👀👀
-- December 2025 I created **Exploiting K-Scale Data for Machine Learning** Written in R and it will be published soon ✅
+- Janaury 2026 Pround to start working for the CarbonHappyWorld organisation as a backend web application developer ♻️
+- December 2025 I created **Exploiting K-Scale Data for Machine Learning** Written in R and it will be published soon 📊
 - November 2025 I completed **Applications of Artificual Intelligence in Quantitative Finance** incl. ANN and LSTM 🪙
 
 I am Keen to collaborate on any AI or data science projects just drop me a message. Seeking to make new connections and help anyway I can. My Scope of expertise include Mathematics / Economics (BSc Hons), Data Science / AI & Machine Learning (MSc) - DataBase Design|Visualisation|LaTeX and Satistics|; Geography (A-Level and Level 4)
