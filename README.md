@@ -1,6 +1,6 @@
 ### 👨‍💻 Hi! welcome to my page, check it out:
 Big Things are coming in 2026 and I am excited to share them soon, watch this space 👀👀👀
-- February 2026 Balancing part-time software development and part-time children learning mentoring; Excited for the future 🏫
+- February 2026 software development; Excited for the future 🏫
 - Janaury 2026 Proud to start working for the CarbonHappyWorld organisation as a backend web application developer ♻️
 - December 2025 I created **Exploiting K-Scale Data for Machine Learning** Written in R and it will be published soon 📊
 - November 2025 I completed **Applications of Artificual Intelligence in Quantitative Finance** incl. ANN and LSTM 🪙
